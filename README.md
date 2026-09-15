@@ -13,15 +13,15 @@ This repository contains practical labs completed while developing my networking
 
 ## 🧪 Labs
 - **01	Local Network Discovery & Connectivity Test**
-   └── [Lab Report #1](./Lab%20Report%20%231.pdf)
+   └── [Lab Report #1](./Network%20Lab%20Report%20%231.pdf)
 - **02	Internet Path Analysis Using Traceroute**
-   └── [Lab Report #2](./Lab%20Report%20%232.pdf)
+   └── [Lab Report #2](./Network%20Lab%20Report%20%232.pdf)
 - **03	DNS Detective (DNS Resolution Analysis)**
-   └── [Lab Report #3](./Lab%20Report%20%233.pdf)
+   └── [Lab Report #3](./Network%20Lab%20Report%20%233.pdf)
 - **04	Active Connections Analysis Using Netstat**
-   └── [Lab Report #4](./Lab%20Report%20%234.pdf)
+   └── [Lab Report #4](./Network%20Lab%20Report%20%234.pdf)
 - **05	Website Availability Testing with curl**
-   └── [Lab Report #5](./Lab%20Report%20%235.pdf)
+   └── [Lab Report #5](./Network%20Lab%20Report%20%235.pdf)
   
 *Labs will be added progressively as I continue developing my networking and troubleshooting skills.
 
@@ -69,17 +69,17 @@ This repository contains practical labs completed while developing my networking
 ## 🔍 Troubleshooting Approach
 For each lab, I aim to follow a simple troubleshooting process:
 - Identify the problem
--         ↓
+          ↓
 - Collect information
--         ↓
+          ↓
 - Run diagnostic tests
--         ↓
+          ↓
 - Analyze the results
--         ↓
+          ↓
 - Identify possible causes
--         ↓
+          ↓
 - Verify the cause
--         ↓
+          ↓
 - Document the findings
 
 The reports focus not only on the commands used, but also on **what the results mean and how they can be interpreted during troubleshooting.**
