@@ -1,6 +1,7 @@
 ## Networking & NOC Practice
 A hands-on networking practice repository focused on network troubleshooting, monitoring, web service testing, and basic network administration.
 This repository contains practical labs completed while developing my networking skills, with a focus on concepts and tools commonly used in NOC (Network Operations Center) and entry-level network support environments.
+
 ---
 ## 🎯 Objectives
 -	Strengthen fundamental networking concepts through hands-on practice
@@ -36,7 +37,7 @@ This repository contains practical labs completed while developing my networking
 -	Git & GitHub
 
 ## 📚 Topics Covered
-**Network Fundamentals**
+### Network Fundamentals
 -	IP Addressing
 -	Subnet Mask
 -	Default Gateway
@@ -45,7 +46,7 @@ This repository contains practical labs completed while developing my networking
 -	IPv4 & IPv6
 -	TCP & UDP
 -	Ports
-**Troubleshooting & Monitoring**
+### Troubleshooting & Monitoring
 -	Connectivity Testing
 -	Packet Loss
 -	Latency Analysis
@@ -56,7 +57,7 @@ This repository contains practical labs completed while developing my networking
 -	HTTP Response Analysis
 -	Response Time Measurement
 -	Basic Root Cause Analysis
-**Web & Application Networking**
+### Web & Application Networking
 -	HTTP Status Codes
 -	HTTP Response Headers
 -	HTTP Redirects
@@ -68,21 +69,22 @@ This repository contains practical labs completed while developing my networking
 
 ## 🔍 Troubleshooting Approach
 For each lab, I aim to follow a simple troubleshooting process:
-- Identify the problem
-          ↓
-- Collect information
-          ↓
-- Run diagnostic tests
-          ↓
-- Analyze the results
-          ↓
-- Identify possible causes
-          ↓
-- Verify the cause
-          ↓
-- Document the findings
+'''text
+ Identify the problem
+         ↓
+ Collect information
+         ↓
+ Run diagnostic tests
+         ↓
+ Analyze the results
+         ↓
+ Identify possible causes
+         ↓
+ Verify the cause
+         ↓
+ Document the findings
 
-The reports focus not only on the commands used, but also on **what the results mean and how they can be interpreted during troubleshooting.**
+*The reports focus not only on the commands used, but also on **what the results mean and how they can be interpreted during troubleshooting.**
 
 ## 📊 Example Skills Demonstrated
 Through these labs, I practice tasks such as:
