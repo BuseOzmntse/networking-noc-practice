@@ -69,19 +69,18 @@ This repository contains practical labs completed while developing my networking
 
 ## 🔍 Troubleshooting Approach
 For each lab, I aim to follow a simple troubleshooting process:
-'''text
- Identify the problem
-         ↓
- Collect information
-         ↓
- Run diagnostic tests
-         ↓
- Analyze the results
-         ↓
- Identify possible causes
-         ↓
- Verify the cause
-         ↓
+ Identify the problem<br>
+         ↓<br>
+ Collect information<br>
+         ↓<br>
+ Run diagnostic tests<br>
+         ↓<br>
+ Analyze the results<br>
+         ↓<br>
+ Identify possible causes<br>
+         ↓<br>
+ Verify the cause<br>
+         ↓<br>
  Document the findings
 
 *The reports focus not only on the commands used, but also on **what the results mean and how they can be interpreted during troubleshooting.**
