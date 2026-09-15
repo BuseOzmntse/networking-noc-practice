@@ -68,7 +68,8 @@ This repository contains practical labs completed while developing my networking
 -	Total Response Time
 
 ## 🔍 Troubleshooting Approach
-For each lab, I aim to follow a simple troubleshooting process:
+For each lab, I aim to follow a simple troubleshooting process:<br>
+<div align="center">
  Identify the problem<br>
          ↓<br>
  Collect information<br>
